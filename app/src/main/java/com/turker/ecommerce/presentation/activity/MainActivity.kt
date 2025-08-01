@@ -8,7 +8,9 @@ import com.turker.ecommerce.R
 import com.turker.ecommerce.databinding.ActivityMainBinding
 import com.turker.ecommerce.util.extension.invisible
 import com.turker.ecommerce.util.extension.visible
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
