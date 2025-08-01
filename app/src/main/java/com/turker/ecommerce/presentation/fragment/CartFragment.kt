@@ -1,22 +1,22 @@
-package com.turker.ecommerce.fragment
+package com.turker.ecommerce.presentation.fragment
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.turker.ecommerce.databinding.FragmentHomeBinding
+import com.turker.ecommerce.databinding.FragmentCartBinding
 
-class HomeFragment : Fragment() {
+class CartFragment : Fragment() {
 
-    private lateinit var binding: FragmentHomeBinding
+    private lateinit var binding: FragmentCartBinding
 
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
-        binding = FragmentHomeBinding.inflate(inflater, container, false)
+        binding = FragmentCartBinding.inflate(inflater, container, false)
         return binding.root
     }
 

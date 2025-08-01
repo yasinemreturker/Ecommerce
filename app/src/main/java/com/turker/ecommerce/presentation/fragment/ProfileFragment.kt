@@ -1,4 +1,4 @@
-package com.turker.ecommerce.fragment
+package com.turker.ecommerce.presentation.fragment
 
 import androidx.fragment.app.Fragment
 

@@ -9,5 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="dark_orange">#ff8f00</color>
     <color name="light_black">#424242</color>
-    <color name="yellow">#F2C94C</color>
+    <color name="silver_sand">#C4C4C4</color>
+    <color name="light_silver">#D9D9D9</color>
+    <color name="ultramarine_blue">#2A59FE</color>
 </resources>

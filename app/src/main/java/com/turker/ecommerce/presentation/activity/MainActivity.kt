@@ -1,9 +1,10 @@
-package com.turker.ecommerce
+package com.turker.ecommerce.presentation.activity
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.NavigationUI
+import com.turker.ecommerce.R
 import com.turker.ecommerce.databinding.ActivityMainBinding
 import com.turker.ecommerce.util.extension.invisible
 import com.turker.ecommerce.util.extension.visible
