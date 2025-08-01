@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Ecommerce</string>
+
+    // Bottom Navigation Menu
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+
 </resources>
